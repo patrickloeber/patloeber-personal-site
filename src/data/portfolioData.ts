@@ -57,7 +57,7 @@ export const PERSONAL_INFO = {
   company: 'Google DeepMind',
   location: 'Germany (CET)',
   email: 'pythonengineerman@gmail.com',
-  bio: 'Member of Technical Staff at Google DeepMind, focusing on developer experience for the Gemini API, Google AI Studio, and Gemma. Creator of Python Engineer, author of comprehensive machine learning courses, and passionate open-source contributor.',
+  bio: 'Member of Technical Staff at Google DeepMind, focusing on DevX for the Gemini API, Google AI Studio, and Gemma. Creator of Python Engineer, author of comprehensive machine learning courses, and passionate open-source contributor.',
   longBio: 'With a background in Medical Engineering and Computer Vision from FAU Erlangen-Nuremberg, Patrick has spent over a decade building software and machine learning systems. He has created some of the web\'s most widely used tutorials on PyTorch and ML fundamentals, reaching over 200,000 developers on YouTube. At Google DeepMind, he works to make frontier AI models accessible, intuitive, and reliable for developers building next-generation applications.',
   socialLinks: {
     linkedin: 'https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137/',
